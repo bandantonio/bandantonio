@@ -9,10 +9,6 @@
 - 💬 Ask me about how good your documentation is
 - ⚡ Fun fact: I am a left-handed person
 
-## My Projects
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bandantonio&repo=tomaatti-timer)](https://github.com/bandantonio/tomaatti-timer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bandantonio&repo=grocery-life)](https://github.com/bandantonio/grocery-life)
-
 ----
+
 Made with :heart: by [Anton Zolotukhin](https://github.com/bandantonio)
