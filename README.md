@@ -13,6 +13,7 @@
 
 [gsod-2019]: https://developers.google.com/season-of-docs/docs/2019/participants
 [gsod-2020]: https://developers.google.com/season-of-docs/docs/2020/participants
+
 ----
 
 ![Onimur's github stats](https://github-readme-stats.vercel.app/api?username=bandantonio&show_icons=true)
@@ -20,7 +21,3 @@
 ----
 
 Made with ❤️ by [Anton Zolotukhin](https://github.com/bandantonio)
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/js/brands.min.js" integrity="sha512-haHlDmamVjJYusdXSTgQTVCuEL3LlOuK4L9XPX2R/RUNj08tPjxoP9oCcmQ6yU6q9V6LSHx1WJ/xIr2KUhTA+A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/brands.min.css" integrity="sha512-lCU0XyQA8yobR7ychVxEOU5rcxs0+aYh/9gNDLaybsgW9hdrtqczjfKVNIS5doY0Y5627/+3UVuoGv7p8QsUFw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
