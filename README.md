@@ -4,12 +4,15 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
 - :man_technologist: I'm currently working on [Tomaatti Timer](https://github.com/bandantonio/tomaatti-timer) and [Grocery Life](https://github.com/bandantonio/grocery-life) projects
-- 🎓 I'm currently learning <img width="20" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" /> JavaScript, <img width="20" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" /> Docker and <img width="20" src="https://unpkg.com/simple-icons@v3/icons/heroku.svg" /> Heroku
-- 🏢 I'm currently employed as a 📝 Technical Writer
+- 🎓 I'm currently learning <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>JavaScript, <img src="https://img.icons8.com/fluency/25/000000/docker.png"/> Docker and <img src="https://img.icons8.com/color/25/000000/heroku.png"/> Heroku
+- 🏢 I'm currently employed as a 📝 Lead Technical Writer
 - :handshake: I'm looking to collaborate on any Javascript project or 📚 documentation
 - 💬 Ask me about how good your documentation is
 - 👻 Fun fact: I am a left-handed person
+- <img width=20 src="https://developers.google.com/season-of-docs/images/SeasonofDocs_Icon_Grey_300ppi_trimmed.png" /> Google Season of Docs: Participant at three consecutive seasons: [2019][gsod-2019], [2020][gsod-2020] and 2021
 
+[gsod-2019]: https://developers.google.com/season-of-docs/docs/2019/participants
+[gsod-2020]: https://developers.google.com/season-of-docs/docs/2020/participants
 ----
 
 ![Onimur's github stats](https://github-readme-stats.vercel.app/api?username=bandantonio&show_icons=true)
@@ -17,3 +20,7 @@
 ----
 
 Made with ❤️ by [Anton Zolotukhin](https://github.com/bandantonio)
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/js/brands.min.js" integrity="sha512-haHlDmamVjJYusdXSTgQTVCuEL3LlOuK4L9XPX2R/RUNj08tPjxoP9oCcmQ6yU6q9V6LSHx1WJ/xIr2KUhTA+A==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/brands.min.css" integrity="sha512-lCU0XyQA8yobR7ychVxEOU5rcxs0+aYh/9gNDLaybsgW9hdrtqczjfKVNIS5doY0Y5627/+3UVuoGv7p8QsUFw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
