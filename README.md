@@ -2,6 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bandantonio)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bandantonio.visitor-badge&left_color=blue&right_color=black)
 
 - :man_technologist: I'm currently working on [Tomaatti Timer](https://github.com/bandantonio/tomaatti-timer) and [Grocery Life](https://github.com/bandantonio/grocery-life) projects
 - 🎓 I'm currently learning <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>JavaScript, <img src="https://img.icons8.com/fluency/25/000000/docker.png"/> Docker and <img src="https://img.icons8.com/color/25/000000/heroku.png"/> Heroku
