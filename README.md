@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bandantonio)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
-- :man_technologist: I'm currently working on [Tomaatti Timer](https://github.com/bandantonio/tomaatti-timer) and [Grocery Life](https://github.com/bandantonio/grocery-life) projects
+- :man_technologist: <s>I'm currently working on [Tomaatti Timer](https://github.com/bandantonio/tomaatti-timer) and [Grocery Life](https://github.com/bandantonio/grocery-life) projects</s>
 - 🎓 I'm currently learning <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>JavaScript, <img src="https://img.icons8.com/fluency/25/000000/docker.png"/> Docker and <img src="https://img.icons8.com/color/25/000000/heroku.png"/> Heroku
 - 🏢 I'm currently employed as a 📝 Lead Technical Writer
 - :handshake: I'm looking to collaborate on any Javascript project or 📚 documentation
