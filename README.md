@@ -1,10 +1,11 @@
 ### Hi there 👋 My name is Anton Zolotukhin
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bandantonio)
+[![Mister-gold.pro](https://img.shields.io/badge/-mister&#8211;gold.pro-blue?style=flat&logo=Hexo&logoColor=white)](https://mister-gold.pro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
 - :man_technologist: <s>I'm currently working on [Tomaatti Timer](https://github.com/bandantonio/tomaatti-timer) and [Grocery Life](https://github.com/bandantonio/grocery-life) projects</s>
-- 🎓 I'm currently learning <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>JavaScript, <img src="https://img.icons8.com/fluency/25/000000/docker.png"/> Docker and <img src="https://img.icons8.com/color/25/000000/heroku.png"/> Heroku
+- 🎓 I'm currently learning <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>JavaScript and <img src="https://img.icons8.com/color/25/000000/python--v1.png"/> Python
 - 🏢 I'm currently employed as a 📝 Lead Technical Writer
 - :handshake: I'm looking to collaborate on any Javascript project or 📚 documentation
 - 💬 Ask me about how good your documentation is
@@ -13,10 +14,6 @@
 
 [gsod-2019]: https://developers.google.com/season-of-docs/docs/2019/participants
 [gsod-2020]: https://developers.google.com/season-of-docs/docs/2020/participants
-
-----
-
-![Onimur's github stats](https://github-readme-stats.vercel.app/api?username=bandantonio&show_icons=true)
 
 ----
 
