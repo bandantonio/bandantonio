@@ -10,10 +10,11 @@
 - :handshake: I'm looking to collaborate on any Javascript project or 📚 documentation
 - 💬 Ask me about how good your documentation is
 - 👻 Fun fact: I am a left-handed person
-- <img width=20 src="https://developers.google.com/season-of-docs/images/SeasonofDocs_Icon_Grey_300ppi_trimmed.png" /> Google Season of Docs: Participant at three consecutive seasons: [2019][gsod-2019], [2020][gsod-2020] and 2021
+- <img width=20 src="https://developers.google.com/season-of-docs/images/SeasonofDocs_Icon_Grey_300ppi_trimmed.png" /> Google Season of Docs: Participant at three consecutive seasons: [2019][gsod-2019], [2020][gsod-2020] and [2021][gsod-2021]
 
 [gsod-2019]: https://developers.google.com/season-of-docs/docs/2019/participants
 [gsod-2020]: https://developers.google.com/season-of-docs/docs/2020/participants
+[gsod-2021]: https://mister-gold.pro/posts/season-of-docs-2021/
 
 ----
 
