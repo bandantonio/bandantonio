@@ -4,7 +4,7 @@
 [![Mister-gold.pro](https://img.shields.io/badge/-mister&#8211;gold.pro-blue?style=flat&logo=Hexo&logoColor=white)](https://mister-gold.pro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
-- :man_technologist: <s>I'm currently working on [Tomaatti Timer](https://github.com/bandantonio/tomaatti-timer) and [Grocery Life](https://github.com/bandantonio/grocery-life) projects</s>
+- :man_technologist: I'm currently working on a new project (more details soon), <s>as well as [Tomaatti Timer](https://github.com/bandantonio/tomaatti-timer) and [Grocery Life](https://github.com/bandantonio/grocery-life) projects</s>
 - 🎓 I'm currently learning <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>JavaScript and <img src="https://img.icons8.com/color/25/000000/python--v1.png"/> Python
 - 🏢 I'm currently employed as a 📝 Lead Technical Writer
 - :handshake: I'm looking to collaborate on any Javascript project or 📚 documentation
