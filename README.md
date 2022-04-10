@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
 - :man_technologist: I'm currently working on [Antmarky][antmarky] project
+- I'm currently helping [Showdown][showdown] project with their documentation
 - 🎓 I'm currently learning <img src="https://img.icons8.com/color/25/000000/javascript--v1.png"/>JavaScript and <img src="https://img.icons8.com/color/25/000000/python--v1.png"/> Python
 - 🏢 I'm currently employed as a 📝 Lead Technical Writer
 - :handshake: I'm looking to collaborate on any Javascript project or 📚 documentation
@@ -16,6 +17,7 @@
 [gsod-2019]: https://developers.google.com/season-of-docs/docs/2019/participants
 [gsod-2020]: https://developers.google.com/season-of-docs/docs/2020/participants
 [gsod-2021]: https://mister-gold.pro/posts/season-of-docs-2021/
+[showdown]: https://github.com/showdownjs
 
 ----
 
