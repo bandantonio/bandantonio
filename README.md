@@ -24,4 +24,4 @@
 
 ----
 
-Made with ❤️ by [Anton Zolotukhin](https://github.com/bandantonio)
+Made with ❤️ and ☕ by [Anton Zolotukhin](https://github.com/bandantonio)
