@@ -11,6 +11,7 @@
   - 💁 I'm currently helping <img width="18" src="https://avatars.githubusercontent.com/u/2754978?s=200&v=4" /> [Showdown][showdown] project make their documentation awesome
 - 💬 Ask me about how good your documentation is
 - 👻 Fun fact: I am a left-handed person
+- 📕 My favorite book is ["The unknown Kimi Raikkonen"](https://www.amazon.com/Kimi-Raikkonen-Kari-Hotakainen-author/dp/1471177661) by Kari Hotakainen
 - <img width=20 src="https://www.writethedocs.org/_static/sticker-wtd-colors.png" /> Write the Docs: Participant at two conferences: 🇱🇹 [Vilnius][wtd-vilnius-2019] and 🇨🇿 [Prague][wtd-prague-2019]
 - <img width=20 src="https://developers.google.com/season-of-docs/images/SeasonofDocs_Icon_Grey_300ppi_trimmed.png" /> Google Season of Docs: Participant at three consecutive seasons: [2019][gsod-2019], [2020][gsod-2020] and [2021][gsod-2021]
 
