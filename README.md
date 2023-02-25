@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
 - 👨‍💻 I'm currently working on [Antmarky][antmarky] project
-- 🎓 I'm currently learning <img src="https://img.icons8.com/color/24/null/typescript.png"/> TypeScript and <img src="https://avatars.githubusercontent.com/u/26872990?s=200&v=4" style="width:22px;margin-bottom:0;"/> Preact
+- 🎓 I'm currently learning <img src="https://img.icons8.com/color/24/null/typescript.png"/> TypeScript and <img src="https://avatars.githubusercontent.com/u/26872990?s=200&v=4" width="22" style="margin-bottom:0;"/> Preact
 - 🏢 I'm currently employed as a 📝 Lead Technical Writer
 - 🤝 I'm looking to collaborate on any Javascript project or 📚 documentation
   - 💁 I'm currently helping <img width="18" src="https://avatars.githubusercontent.com/u/2754978?s=200&v=4" /> [Showdown][showdown] project make their documentation awesome
