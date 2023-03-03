@@ -22,7 +22,3 @@
 [gsod-2020]: https://developers.google.com/season-of-docs/docs/2020/participants
 [gsod-2021]: https://mister-gold.pro/posts/season-of-docs-2021/
 [showdown]: https://github.com/showdownjs
-
-----
-
-Made with ❤️ and ☕ by [Anton Zolotukhin](https://github.com/bandantonio)
