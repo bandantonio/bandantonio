@@ -8,7 +8,6 @@
 - 🎓 I'm currently learning <img src="https://img.icons8.com/color/24/null/typescript.png"/> TypeScript and <img src="https://avatars.githubusercontent.com/u/26872990?s=200&v=4" width="22" style="margin-bottom:0;"/> Preact
 - 🏢 I'm currently employed as a 📝 Lead Technical Writer
 - 🤝 I'm looking to collaborate on any Javascript project or 📚 documentation
-  - 💁 I'm currently helping <img width="18" src="https://avatars.githubusercontent.com/u/2754978?s=200&v=4" /> [Showdown][showdown] project make their documentation awesome
 - 💬 Ask me about how good your documentation is
 - 👻 Fun fact: I am a left-handed person
 - 📕 My favorite book is ["The unknown Kimi Raikkonen"](https://www.amazon.com/Kimi-Raikkonen-Kari-Hotakainen-author/dp/1471177661) by Kari Hotakainen
@@ -21,4 +20,3 @@
 [gsod-2019]: https://developers.google.com/season-of-docs/docs/2019/participants
 [gsod-2020]: https://developers.google.com/season-of-docs/docs/2020/participants
 [gsod-2021]: https://mister-gold.pro/posts/season-of-docs-2021/
-[showdown]: https://github.com/showdownjs
