@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Anton Zolotukhin
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bandantonio)
-[![Mister-gold.pro](https://img.shields.io/badge/-mister&#8211;gold.pro-blue?style=flat&logo=Hexo&logoColor=white)](https://mister-gold.pro)
+[![Mister-gold.pro](https://img.shields.io/badge/-mister&#8211;gold.pro-blue?style=flat&logo=Astro&logoColor=white)](https://mister-gold.pro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
 - 👨‍💻 I'm currently working on [Antmarky][antmarky] project
