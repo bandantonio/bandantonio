@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Anton Zolotukhin
+### Hi there 👋 My name is Anton
 
 [![Mister-gold.pro](https://img.shields.io/badge/-mister&#8211;gold.pro-blue?style=flat&logo=Astro&logoColor=white)](https://mister-gold.pro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
