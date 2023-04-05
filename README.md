@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Anton
 
 [![Mister-gold.pro](https://img.shields.io/badge/-mister&#8211;gold.pro-blue?style=flat&logo=Astro&logoColor=white)](https://mister-gold.pro)
+[![bandantonio.hashnode.dev](https://img.shields.io/badge/-bandantonio.hashnode.dev-blue?style=flat&logo=Hashnode&logoColor=white)](https://bandantonio.hashnode.dev)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bandantonio/)
 
 - 👨‍💻 I'm currently working on my [personal website][my-website] and [Antmarky][antmarky] project
