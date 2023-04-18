@@ -14,7 +14,7 @@
 - <img width=20 src="https://www.writethedocs.org/_static/sticker-wtd-colors.png" /> Write the Docs: Participant at two conferences: 🇱🇹 [Vilnius][wtd-vilnius-2019] and 🇨🇿 [Prague][wtd-prague-2019]
 - <img width=20 src="https://developers.google.com/season-of-docs/images/SeasonofDocs_Icon_Grey_300ppi_trimmed.png" /> Google Season of Docs: Participant at three consecutive seasons: [2019][gsod-2019], [2020][gsod-2020] and [2021][gsod-2021]
 
-
+<!-- -->
 
 [my-website]: https://github.com/bandantonio/bandantonio.github.io
 [antmarky]: https://github.com/bandantonio/antmarky
