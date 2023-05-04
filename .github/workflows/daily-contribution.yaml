@@ -1,0 +1,20 @@
+name: Daily contributions
+run-name: 📅 Scheduled run for daily contributions
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+jobs:
+  daily-contribution:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Update 'Last updated' date
+        run: |
+          sed -i '' '$s/.*/'"Last updated: $(date '+%c')"'/' README.md
+      - name: Commit changes
+        run: |
+          git config --global user.name '${{ github.repository_owner }}'
+          git config --global user.email '${{ github.repository_owner }}@users.noreply.github.com'
+          git commit -am "Scheduled commit: update last modified date"
+          git push origin master
