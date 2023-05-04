@@ -7,11 +7,12 @@ jobs:
   daily-contribution:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo and modify 'Last updated' date
+      - name: Checkout repo and
         uses: actions/checkout@v3
+      - name: Update 'Last updated' date
         run: |
           ls ${{ github.workspace }}
-          sed -i '' '$s/.*/'"Last updated: $(date '+%c')"'/' ${{ github.workspace }}/README.md
+          sed -i -e '$s/.*/'"Last updated: $(date '+%c')"'/' ${{ github.workspace }}/README.md
       - name: Commit changes
         run: |
           git config --global user.name '${{ github.repository_owner }}'
