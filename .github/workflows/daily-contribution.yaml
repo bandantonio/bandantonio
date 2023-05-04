@@ -11,8 +11,7 @@ jobs:
         uses: actions/checkout@v3
       - name: Update 'Last updated' date
         run: |
-          ls ${{ github.workspace }}
-          sed -i -e '$s/.*/'"Last updated: $(date '+%c')"'/' ${{ github.workspace }}/README.md
+          sed -i -e '$s/.*/'"<\!-- Last updated: $(date '+%c') \-->"'/' ${{ github.workspace }}/README.md
       - name: Commit changes
         run: |
           git config --global user.name '${{ github.repository_owner }}'
